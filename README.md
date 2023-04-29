@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">Sigueme 👇</h2>
+<h2 align="center">Sígueme 👇</h2>
 
 <p align="center">
   
