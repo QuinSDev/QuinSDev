@@ -16,7 +16,7 @@
 
 ---
 
-## Tecnologías y herramientas
+## Tecnologías y herramientas 
 
 [![Tecnologías](https://img.shields.io/badge/Tecnologías-:-808080?style=for-the-badge&labelColor=black)]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,3 +30,26 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Photoshop](https://img.shields.io/badge/Photoshop-001e36.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
 [![Illustrator](https://img.shields.io/badge/Illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=101010)]()
+
+---
+
+<h2 align="center">Sigueme</h2>
+
+<p align="center">
+  
+  <a href="url">
+    <img src="https://img.icons8.com/material-sharp/35/000000/github.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/material-sharp/35/000000/linkedin.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/material-sharp/35/000000/instagram-new.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/material-sharp/35/000000/discord-logo.png"/>
+  </a>
+  
+</p>
+
+
