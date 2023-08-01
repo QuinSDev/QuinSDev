@@ -33,23 +33,3 @@
 
 ---
 
-<h2 align="center">Sígueme 👇</h2>
-
-<p align="center">
-  
-  <a href="url">
-    <img src="https://img.icons8.com/material-sharp/35/000000/github.png"/>
-  </a>
-  <a href="">
-    <img src="https://img.icons8.com/material-sharp/35/000000/linkedin.png"/>
-  </a>
-  <a href="">
-    <img src="https://img.icons8.com/material-sharp/35/000000/instagram-new.png"/>
-  </a>
-  <a href="">
-    <img src="https://img.icons8.com/material-sharp/35/000000/discord-logo.png"/>
-  </a>
-  
-</p>
-
-
