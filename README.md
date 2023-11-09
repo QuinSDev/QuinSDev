@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<p align="center">Soy un estudiante de FullStack que busca aprender y mejorar constantemente mis habilidades en el desarrollo de software. Mi objetivo es convertirme en un desarrollador FullStack <em><strong>altamente competente</strong></em>, con habilidades en una variedad de tecnologías y herramientas de desarrollo.</p>
+<p align="center">Soy un estudiante de web full stack que busca aprender y mejorar constantemente mis habilidades en el desarrollo de software. Mi objetivo es convertirme en un desarrollador FullStack <em><strong>altamente competente</strong></em>, con habilidades en una variedad de tecnologías y herramientas de desarrollo.</p>
 
 ---
 
