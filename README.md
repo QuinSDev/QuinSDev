@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<p align="center">Desarrollador FullStack comprometido con el aprendizaje constante parea mejorar mis habilidades en el desarrollo de software. Mi meta es convertirme en un desarrollador FullStack <em><strong>altamente competente</strong></em>, con dominio en diversas tecnologías y herramientas de desarrollo.</p>
+<p align="center">Desarrollador FullStack comprometido con el aprendizaje constante para mejorar mis habilidades en el desarrollo de software. Mi meta es convertirme en un desarrollador FullStack <em><strong>altamente competente</strong></em>, con dominio en diversas tecnologías y herramientas de desarrollo.</p>
 
 ---
 
