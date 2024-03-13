@@ -9,7 +9,7 @@
 ## Acerca de mí
 
 
-- 🎓 &nbsp; Graduado como Técnico de desarrollor de software
+- 🎓 &nbsp; Graduado como Técnico en desarrollo de software.
 - 🚀 &nbsp;  Desarrollando activamente proyectos para adquirir <strong>experiencia</strong> y mejorar mis <strong>habilidades.</strong>
 - ✒️ &nbsp; Me apasiona el diseño y creo que es una habilidad <strong>importante</strong> para cualquier desarrollador.
 - ⚖️ &nbsp; Creo que mantener un <strong>equilibrio</strong> entre el trabajo y la vida personal es importante para el éxito a largo plazo.
