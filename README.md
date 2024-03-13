@@ -2,14 +2,14 @@
 
 <br>
 <br>
-<p align="center">Desarrollador FullStack comprometido con el aprendizaje constante para mejorar mis habilidades en el desarrollo de software. Mi meta es convertirme en un desarrollador FullStack <em><strong>altamente competente</strong></em>, con dominio en diversas tecnologías y herramientas de desarrollo.</p>
+<p align="center">Desarrollador de Software Backend comprometido con el aprendizaje constante para mejorar mis habilidades en el desarrollo de software. Mi meta es convertirme en un desarrollador de software backend <em><strong>altamente competente</strong></em>, con dominio en diversas tecnologías y herramientas de desarrollo.</p>
 
 ---
 
 ## Acerca de mí
 
 
-- 🎓 &nbsp; Graduado de la carrera de FullStack por <a href="https://eggcooperation.com/es-co/"><strong>Egg Cooperation</strong></a>
+- 🎓 &nbsp; Graduado como Técnico de desarrollor de software
 - 🚀 &nbsp;  Desarrollando activamente proyectos para adquirir <strong>experiencia</strong> y mejorar mis <strong>habilidades.</strong>
 - ✒️ &nbsp; Me apasiona el diseño y creo que es una habilidad <strong>importante</strong> para cualquier desarrollador.
 - ⚖️ &nbsp; Creo que mantener un <strong>equilibrio</strong> entre el trabajo y la vida personal es importante para el éxito a largo plazo.
